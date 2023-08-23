@@ -1,0 +1,256 @@
+Executive Briefing: AI+ChatGPT
+
+
+1. Computer Vision
+
+What is CV
+Trains computers to interpret and understand the visual world
+
+Ex: cameras auto focusing on face, 
+facebook suggests whom to tag in the facebook post, self diriving cars
+
+
+Human process 90% of data in visual form
+
+
+How CV works
+Myth: CV only works with Deep learning and neural networks
+
+Types of CV
+Classical: relies on prebuilt libraries of features
+Efficient and extremely fast
+
+Deep Learning: convolutional neural networks make possible deep learning for computer vision
+black box that has memory and experience fed with labelled data before using
+
+Example:
+Tomato sorting with CV
+good and rotten tomato sorting
+
+Applications
+Image classification
+Image segmentation
+object detection
+Object tracking
+Image generation
+Edge detection
+Face detection
+Face recognization
+Optical charcater recognization OCR
+Pattern detection
+Feature matching
+
+
+Use Cases
+1. SKanska, one of the largest construction companies in the world determined that their workers walked more than 6miles per day just to gather the items
+
+Skanska optimized the entire building process
+
+2. Tesla uses CV in self driving cars
+
+3. Harvest Croo Robotics: Computer Vision for automatic crop Harvesting
+
+
+4. ebay : Cv for image search
+
+5. Ai cure: computer vision for medication adherence
+
+6. Osprey:  Computer vision for oil well monitoring
+
+7. Roaf : CV for waste sorting
+
+8. Swiss Federal Institute of Technology: CV for stroke recovery
+
+9. Cortexica : CV for workplace safety monitoring
+
+10. Tomra: Computer vision for auotmatic ore sorting
+
+
+2. Deep learning
+
+family of machine learning methods based on artifical neural networks
+
+
+Discipline within AI that teaches computers how to make predictions based on date
+
+No predefined framework
+mimic human brain
+Deep neural networks
+
+
+Al>Ml(NLP+CV+RL)>DL(DNLP+DCV+DRL not always)
+
+Building Neural networks
+
+input layer
+Hidden layer
+output layer
+
+The different ways that neural networks can be constructed are called architectures
+
+
+How neural networks learn
+
+Neural networks have memory which is effecitively weights whithin these neurons
+weights are trained
+weights are adjusted using back propagation
+
+
+10 Use cases
+
+1. Google Ai: deep learning for cancer detection
+2. Spotify : deep learning for recommendation engines
+3.Goldspot Discoveries:  DP for mineral exploration
+4.digital domain: DP for visual effects
+5. Ayasdi: DP for anti-money laundering
+6. Deep instinct: DP for cybersecurity
+7. Doxel: DP for productivity tracking
+8. Amazon rekognition: DP for facial recognition
+9. Zestimate: DP for real estate prices
+10. Zest Finance: deep learning for loan approval
+
+
+4. Reinforcement Learning RL
+
+Three types of algorithms
+Supervised learning: Teach a machine to search and identify patterns, labelled data
+
+UnSupervised learning: discover of new patterns, clustering, suggestions
+
+Reinforcement learning : presenrted with a problem and is being rewarded with a plus one for  finding a solution or punished with minus one for not finding a solution, agent take random actions and interact with environment
+
+
+RL in HUmans
+baby learning to walk
+reward
+punishment
+
+
+John Langford Ml researcher at microsoft(275 Super Science Podcast)
+
+Advantages:
+doesn't require labelled data
+future of ML
+innovative
+free from bias and discrimination
+learn online real time(Exploration and explotation)
+adaptale
+
+Application
+Marketing
+1. Creating personalized recommendations
+2. Optimizing adversting budget
+3. selecting the best content for advertisements
+4. Increasing customer lifetime value
+5. Predicting customer responses to price plan changes
+
+10 use cases:
+
+1. Google:  reinforcement learning for alphaGO
+2. Google: RL in energy management
+3. Decision service: Rl in advertising
+4. Trendyol: RL in email advertising
+5. Alibaba: RL in adverstiing diplay bidding
+6. Electa: RL in energy managemnt
+7. Fanuc/Tesla: manufacturing and robotics
+8. inventory management
+9. Cambridge unveristy: healthcare
+10. Self driving cars by Tesla google and more
+
+
+
+5. Natural Language Processing NLP
+
+Field of AI concerned with the interactions between computers and human natural languages
+
+program computers to process and analyse large amounts of natural language data
+
+two types of data
+Structured data(predefined format)(tables, databases)
+Unstructured data(Emails,chats, blogs, books)
+
+
+NLP works
+two parts
+Natural language understanding
+Mapping the given input form NL into formal representation and analysing it
+
+Natural language generation
+NLG is munch easier than NLU
+
+speech recognition and speech generation only come to play if there's audio involved
+
+
+Applications of NLP
+
+Sentiment Analysis: TO help you understand how users feel about your company or product
+speech recognizantion
+chatbots
+machine translation
+autocompleting text
+spell checking
+keyword search
+advertisment matching
+information extraction
+spam detection
+text generation
+automatic summaraztio
+Questionsanswering
+image captioning
+video captioning
+
+
+Chatbots
+
+simple chatbots: use minimal NLP they are precoded to a certain set of questions and responses
+
+Advanced chatbots: heavily rely on NLP specifcally NLU interacting with customers as a human would
+
+10 usecases
+NLP in
+document analysis by rotterdam airport
+chatbots in autodesk
+survey results analysis by boston consulting group
+document review by JPMorgan chase
+content mentoring by youtube
+sentiment analysis by 8allocate
+virtual personal assistants
+feedback analysis by SKAI
+credit assessment by Lendo
+translations by Booking.com
+
+
+6. Robotics process automation RPA
+
+The practice of using easily programable software to take care or handle highly repetitive high volume tasks
+
+benefits
+works always
+never get sick
+accuracy
+speed
+scalable
+
+Risks
+
+Looking rpa from IT stand point rather than bussiness stand point
+Change
+Targeting wrong process
+automating too much
+
+10 usecases
+RPA in a
+UK Ecommerce company
+australian energy company
+UK bank
+Food and beverages company
+UK health company
+Logistics company
+Manufacturing company
+GLobal services company
+US Tech Company
+Japanese Telecommunications company
+
+
+
+
